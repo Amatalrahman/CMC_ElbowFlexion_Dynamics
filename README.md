@@ -8,14 +8,16 @@ These modifications were performed as part of a task aiming to explore the effec
 ---
 
 ## 📁 Repository Structure
-Elbow_Loading_Simulation/
-│
-├── ModifiedControls/
-│ ├── arm26_ControlConstraints1.xml
-│ ├── arm26_ComputedMuscleControl_Tasks1.xml
-│ └── arm26_SpecifiedShoulder.mot
-│
-└── report.pdf
+
+
+    Elbow_Loading_Simulation/
+    │
+    ├── ModifiedControls/
+    │ ├── arm26_ControlConstraints1.xml
+    │ ├── arm26_ComputedMuscleControl_Tasks1.xml
+    │ └── arm26_SpecifiedShoulder.mot
+    │
+    └── report.pdf
 
 نسخ
 تحرير
@@ -68,11 +70,12 @@ This work was performed using:
 ## 👥 Contributors
 
 This project was collaboratively developed by a dedicated team of students from the System and Biomedical Engineering Department, Cairo University:
-_**Amatalrahman Sayed**
-_**Alaa Essam**
-_**Saja Sadek**
-_**Ziad Osama**
-_**Hassan Badawy**
+1. **Amatalrahman Sayed**
+2. **Alaa Essam**
+3. **Saja Sadek**
+4. **Ziad Osama**
+5. **Hassan Badawy**
+
 
 
 ---
