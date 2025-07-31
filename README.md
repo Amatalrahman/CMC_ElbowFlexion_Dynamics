@@ -55,7 +55,7 @@ Each folder contains joint angles, muscle activations, and other simulation outp
 ## 📄 Report
 
 For detailed analysis, figures, and interpretation of the results:
-- See [`report.pdf`](./simulation_Elbow_loading.pdf)
+- See [`report.pdf`](./report/simulation_Elbow_loading.pdf)
 
 ---
 
