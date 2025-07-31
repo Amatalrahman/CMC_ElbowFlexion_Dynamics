@@ -8,8 +8,6 @@ These modifications were performed as part of a task aiming to explore the effec
 ---
 
 ## 📁 Repository Structure
-
-
 Elbow_Loading_Simulation/
 │
 ├── ModifiedControls/
